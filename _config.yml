@@ -39,7 +39,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://openhardware.space/feeling-responsive/'
+urlimg: 'https://openhardware.space/feeling-responsive/images'
 
 
 # Logo size is 600x80 pixels
@@ -272,5 +272,3 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
-
-theme: jekyll-theme-minimal
